@@ -5,11 +5,12 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
+    zoom: 150%;
 }
 
 body {
     font-family: "Imprima", sans-serif;
-    max-height: 100vh;
+    min-height: 100vh;
     background-color: #ffffff;
     color: #333333;
     display: flex;
